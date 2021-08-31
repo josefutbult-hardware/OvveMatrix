@@ -1,0 +1,3 @@
+[submodule "Server"]
+	path = Software/OvveMatrix-Server
+	url = git@github.com:josefutbult-software/OvveMatrix-Server.git
