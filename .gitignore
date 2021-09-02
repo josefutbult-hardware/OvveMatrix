@@ -55,6 +55,9 @@ eagle.epf
 *.tmPreferences.cache
 *.stTheme.cache
 
+# Project files are user-specific
+*.sublime-project
+
 # Workspace files are user-specific
 *.sublime-workspace
 
